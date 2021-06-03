@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal to raise four hundred thousand pounds per ann. without any imposition or new tax, by amending the deficiency of an old one, namely, the excise in beer and ale.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28445</idno><idno type="EEBO-CITATION">99885097_201647</idno>
+  <idno type="VID">201647</idno>
+  <idno type="EEBO-PROQUEST">2264213334</idno>
+  
+            <idno type="STC">Wing P3713</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.6[87]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.12[66]</idno>
+            <idno type="STC">ESTC R220660</idno>
+            <idno type="PROQUEST">ocm99885097</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885097e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201647)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C19:1[66]; C25:3[91])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal to raise four hundred thousand pounds per ann. without any imposition or new tax, by amending the deficiency of an old one, namely, the excise in beer and ale.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Beer --  Taxation --  Early works to 1800.</term>
+               <term type="topical_term">Excise tax --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:201647:1"/>
+            <head>A PROPOSAL TO RAISE <hi>Four Hundred Thousand Pounds</hi> per Ann. Without any Imposition or New Tax, by Amending the Deficiency of an Old One, Namely, <hi>The Excise on Beer and Ale.</hi>
+            </head>
+            <p>
+               <hi>FOR which purpose, I humbly beg leave to inform this Honourable House, what in all probability the present Frauds of the Brewers do amount to, being such, as it's to be feared, if some Care be not speedily taken to prevent them, will mightily encrease, even beyond one Third Part of that Revenue; notwithstanding the great Charge (not to mention the great Trouble) His Majesty is at, at present, and the greater perhaps (under the present Laws of Excise) he must be at hereafter, to keep it at the Ebb it's now at,</hi> viz. <hi>That only one Third Part be defrauded.</hi>
+            </p>
+            <p>To Prove which, 'tis but looking back to what former Years has produced, and comparing them with the latter, when they had not such Temptations to Defraud as now they have; by reason the Duty even at this time is almost double to what then it was, and has been almost treble since His Present Majesty's Reign, which will not be denied, I presume, <hi>(viz.)</hi> That they have a much greater Temptation to put them upon the Contrivance of Frauds more now than formerly; For the PENALTIES are the same now as then, which is all the Check the Brewers have. The Trouble and Charge they are at in committing their Frauds are the same, and not other than heretofore.</p>
+            <p>The Excise when at 2 <hi>s.</hi> 6 <hi>d. per</hi> Barrel Strong, and 6 <hi>d. per</hi> Barrel Small, did amount to about 680334 <hi>l. per Annum,</hi> now at 4 <hi>s.</hi> 9 <hi>d. per</hi> Barrel Strong, and 1 <hi>s.</hi> 3 <hi>d. per</hi> Barrel Small, does amount to about 900000 <hi>l. per Annum,</hi> according to the Additional Duty, that is, from 2 <hi>s.</hi> 6 <hi>d.</hi> Strong and 6 <hi>d.</hi> Small, to 4 <hi>s.</hi> 9 <hi>d.</hi> Strong, and to 1 <hi>s.</hi> 3 <hi>d.</hi> Small, which is almost double; the Excise ought to come to at least 1330000 <hi>l. per Annum;</hi> according to this Computation it comes short 430000 <hi>l. per Annum:</hi> Suppose an allowance of 30000 <hi>l. per Annum</hi> be made, for the Humour of this Town as well as the Country, running
+<pb n="2" facs="tcp:201647:2"/>more of late upon the very Strong or Double Ales than formerly. Sup<g ref="char:EOLhyphen"/>pose likewise an allowance of 20000 <hi>l. per Annum</hi> be made, for the De<g ref="char:EOLhyphen"/>clension of the Brewing Trade of late years; though I should think it no very great Task to prove, were it necessary, That that Trade of late is not in the least declined. But I shall have room to make large al<g ref="char:EOLhyphen"/>lowances; therefore, lest that Objection should arise, that also is made here out. Suppose likewise an allowance of 10000 <hi>l. per Annum</hi> be made in the stead of Excise on the Retailers of Coffee, which is more than ever was received by that Duty, when the Excise did amount to 680334 <hi>l. per Annum,</hi> that Duty helped to make up the aforesaid Sum, which at this time is on the Berry, and the Duty received at the Cu<g ref="char:EOLhyphen"/>stom-House. Suppose likewise the Distillery be the same now as then, according to the Additional Duty on it, though in fact it is considera<g ref="char:EOLhyphen"/>bly advanced even according to the Additional Duty. All these De<g ref="char:EOLhyphen"/>ductions amount to but 60000 <hi>l. per Annum,</hi> which deducted from 430000 <hi>l.</hi> there will still remain 370000 <hi>l.</hi> 'Tis to be supposed that even then (when the Excise was at but 2 <hi>s.</hi> 6 <hi>d. per</hi> Barrel Strong, and 6 <hi>d. per</hi> Barrel Small) the Brewers were not all Puritans; but suppose an Allowance be made for the then suppos'd Frauds of 50000 <hi>l.</hi> (though upon a Nicer Examination, there would be good reason to suspect twice that Sum did not serve their Turns) then the Brewers Frauds will a<g ref="char:EOLhyphen"/>mount to Four Hundred and Twenty Thousand Pound <hi>per Annum,</hi> which is considerably above One Third Part. There might be much more said to swell the aforesaid 420000 <hi>l. per Annum,</hi> to a much greater Sum; but it is to be fear'd that even that's much too great to be well spared at this time. I humbly beg leave to shew this Honourable House, wherein in my humble Opinion, the Frauds of Brewers are Prejudicial to the King, to the Subjects in General, and to the Trade it self.</p>
+            <p>
+               <hi>First,</hi> These Frauds are a Disappointment to the King, by Reason that thereby the Excise does not answer the Sum it was given for; Consequent<g ref="char:EOLhyphen"/>ly, the Fund to the Lender of Monies is not so Good or Large, as if it did sully Answer.</p>
+            <p>
+               <hi>Secondly,</hi> They are prejudicial to the Publick in General, by reason that if the Brewers paid for all they Brew'd (as in Conscience and Truth they ought) the less Taxes would serve turn, Consequently, are prejudicial to the Subjects.</p>
+            <p>
+               <hi>Thirdly,</hi> These Frauds are prejudicial to the Brewing Trade; Every Person that knows the Brewing Trade, knows the greater the Trade, the greater Opportunity they have to Defraud; Insomuch, that the ve<g ref="char:EOLhyphen"/>ry small Brewers can scarce Defraud any, the great Brewers having such advantage, do sell Stronger or better Drink, more Measure, and Cheaper than the Lesser ones can, who by reason of the want of such great Trades, have not such great Advantages by Frauds; The lesser Brewers by this means cannot be supposed to have any Customers that can make good Payment for what they Buy of them; for if they could, most certainly they would apply themselves to the great Brewers, where they may re<g ref="char:EOLhyphen"/>ceive such visible Advantages, different from what the lesser Brewers can afford them, so that what few Customers the lesser Brewers can be sup<g ref="char:EOLhyphen"/>posed
+<pb n="3" facs="tcp:201647:3"/>to have, they get nothing by, perhaps lose; since then, the only Customers the lesser Brewers have that they can hope to get by are bad, it is very apparent that the Trade thereby is greatly pre<g ref="char:EOLhyphen"/>judiced; there will also this Consequence necessarily follow (if the Trade it self be thus prejudiced) the Publick will be yet further prejudiced, who will be obliged to bear some Tax levied on them to make good such De<g ref="char:EOLhyphen"/>ficiency, as may accrue therefrom.</p>
+            <p>The Prevention of which, in my Humble Opinion, lies most proper<g ref="char:EOLhyphen"/>ly and intirely in the Breast of this Honourable House; that it may be prevented without any other Laws than what already are made, there is no doubt; But what's the Consequence? Perhaps it will cost as much to have it done, as will be saved, which is the same thing, almost, as if it were permitted; it cannot be imagined such an Abuse wou'd have been permitted so long, did it lie in the Power of Art, with a Reason<g ref="char:EOLhyphen"/>able Charge to have prevented it; but when we come to reflect under whose Management this Affair has been for this many Years past, and at present is, namely that Honourable Person who is at the Head of the Treasury, there will not be the least hope left us to believe any Judgment or Art hath been wanting, or can be improved, but what must necessari<g ref="char:EOLhyphen"/>ly owe its Birth to this Honourable House, and where those Grievances can best be Redress'd.</p>
+            <p>Now suppose there were a Penalty inflicted, that every Brewer that should erect and make use of a Private Back, a Private Tun, or a Private Store-House, should pay 500 <hi>l.</hi> That every Brewer that should Conceal the Quantity of a Barrel of Strong Beer, Ale, or Small Beer from the Sight of the Gager, should pay 15 <hi>l.</hi> for each Barrel; That every Brewer that should mix Small Beer to Strong Beer or Ale, after the Gager has taken his Morning Gage, unless it be in the Presence of a Gager, to pay for every Barrel so mix'd 15 <hi>l.</hi> For denial of Entry 50 <hi>l.</hi> and the other Pe<g ref="char:EOLhyphen"/>nalties in Proportion, and a Plentiful Reward out thereof to the Infor<g ref="char:EOLhyphen"/>mer. I say, did this Honourable House think it adviseable, that some such Penalties were Inflicted, not any Brewer of them all would dare at<g ref="char:EOLhyphen"/>tempt committing the least kind of Fraud; by which, 'tis plain, the great Grievance before spoken of, would be Redress'd by such Penalties, for the Brewer has even under the present Penalties these Considerations, <hi>(viz.)</hi> What Advantage he is like to reap; the hazard he runs; which are three sorts, <hi>(viz.)</hi> The Penalty, the Charge he is to be at, and the Confidence he is necessiated to Repose in his Servants, which, to say the Truth, are not Persons of the greatest Faith; Suppose the Master would commit a Fraud, and run the hazard of the supposed Penalties, he would not dare to intrust his Servants therewith, and without their Privity the Master cannot commit the Fraud; Besides, by such Penalties (as is before spoken of) His Majesty would save at least 50000 <hi>l. per Annum</hi> in the Management, and then the 420000 <hi>l. per Annum</hi> will be 470000 <hi>l. per Annum</hi> difference to the King; for where there is a Necessity now to imploy Four Officers, Two would serve turn, and so in proportion in most of the other Imployments. I humbly hope it will appear by these following Reasons, that such Penalties are not only of use to the King, to the Pub<g ref="char:EOLhyphen"/>lick in General, by Redressing the Great Grievances that fall out in the matter of the Excise, and the Equality and Preservation of the Trade
+<pb n="4" facs="tcp:201647:4"/>it self which I humbly presume has been before sufficiently prov'd, but also, that every Brewer will be left destitute of the least ground to Complain thereof, Consequently, will be presumed to be Just and Reasonable.</p>
+            <p>As thus, Every Brewer that shews the Gagers all he hath Brewed, and does not Conceal or Defraud any, is not Subject to the Penalties; Con<g ref="char:EOLhyphen"/>sequently, he will have no cause to Complain, if he Defrauds not, he will not have any thing to pay, I mean of the Penalties; He that will by Day-Light burn his Fingers, cannot hope for pity, or expect less than to feel the smart thereof.</p>
+            <p>All the Objection that can be rais'd against it, in my humble Opinion, is this, <hi>(viz.)</hi> If the Brewer's Servants should Defraud any without the Master's privity, (supposed to do it on purpose to get the Reward propo<g ref="char:EOLhyphen"/>sed to the Informer) it would be a Hardship upon the Masters. True, I say so too; but there is this Remedy provided by the present Laws of Excise, (for that very purpose) that it doth lie in the Breast of the Com<g ref="char:EOLhyphen"/>missioners, to mitigate any Penalty to any degree they please, taking no<g ref="char:EOLhyphen"/>thing less than double the Duty and the Charge the Officer is at in find<g ref="char:EOLhyphen"/>ing out the Fraud: It will not be suppos'd, I presume, any thing that has but a Countenance like that, would be Inflicted by the Commissioners, that make no profit thereby, but set to deal Equally between the King and the Brewer. I humbly presume, what is said before, is sufficient to Convince any Person, at least this Unbyass'd Honourable House, that the Objection is fully Answer'd; and I defy the Brewers themselves, I mean the Great ones that have made large Estates solely out of Frauds, to make any other Objection; and for the lesser Brewers, (the greater Num<g ref="char:EOLhyphen"/>ber of the two) I will take the Liberty to Answer for them, that they shall (if requir'd) Petition this Honourable House that such an Act should pass for the Preservation of their Trade.</p>
+            <p>Note, <hi>That upon a Modest Computation, every Brewer that makes use of a Pri<g ref="char:EOLhyphen"/>vate Back, a Private Tun, or Private Store-House, of but a Moderate Size or Bigness, makes at least</hi> 20 l. per <hi>Week, which used but six Months will make</hi> 480 l. <hi>which will almost Answer the Penalties proposed. This, in my humble Opinion, shews, the Penalties proposed are not Extravagant.</hi>
+            </p>
+            <p>Note also, <hi>That the present Penalties are for a Private Back, a Private Tun, or a Private Store-House,</hi> 50 l. <hi>For every Barrel of Drink concealed or mixed, (as before)</hi> 1 l. <hi>For denial of Entry,</hi> 15 l. <hi>And the rest of the Penalties proper<g ref="char:EOLhyphen"/>tionable, which have hitherto (to the great prejudice of the King, of the Subject in general, and to the Trade it self) proved Insufficient.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
